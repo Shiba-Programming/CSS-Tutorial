@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+li {
+    list-style-type: square;
+    max-width: 10;
+}
+a {
+    font-weight: bold;
+}
